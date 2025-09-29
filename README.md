@@ -9,8 +9,8 @@ It demonstrates my ability to design, document, and communicate effective cybers
 ---
 
 ## Deliverables
-- 
-- 🖼️ Diagrams folder: `/diagrams_irp` (includes lifecycle, ransomware flow, SOC workflow, tabletop cycle)
+- [Incident_Response_Plan.docx](https://github.com/user-attachments/files/22588312/Incident_Response_Plan.docx)
+
 
 ---
 
@@ -25,13 +25,9 @@ It demonstrates my ability to design, document, and communicate effective cybers
 - SOC escalation workflow and metrics for resilience  
 - Appendix with escalation matrix, stakeholder email template, and sample incident ticket  
 
----
-
-## Sample Diagram
-### Incident Response Lifecycle
-![IR Lifecycle](diagrams_irp/ir_lifecycle.png)
 
 ---
+
 
 ## Skills Demonstrated
 - Writing professional IR playbooks and tabletop exercises  
