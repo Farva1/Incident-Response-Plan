@@ -9,8 +9,7 @@ It demonstrates my ability to design, document, and communicate effective cybers
 ---
 
 ## Deliverables
-- 📄 [Incident Response Plan – Full Word Document](Incident_Response_Plan_Expanded_Umme_Farva.docx)  
-- 📄 [Incident Response Plan – PDF Version](Incident_Response_Plan_Expanded_Umme_Farva.pdf)  
+- 
 - 🖼️ Diagrams folder: `/diagrams_irp` (includes lifecycle, ransomware flow, SOC workflow, tabletop cycle)
 
 ---
