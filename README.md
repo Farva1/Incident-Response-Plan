@@ -1,7 +1,6 @@
 # Incident Response Plan (IRP) – Portfolio Project
 
 **Author:** Umme Farva  
-**Date:** September 28, 2025  
 
 This repository contains my expanded **Incident Response Plan (IRP)**.  
 It demonstrates my ability to design, document, and communicate effective cybersecurity response strategies using industry frameworks (NIST, SANS, MITRE ATT&CK).  
