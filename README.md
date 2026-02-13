@@ -33,3 +33,9 @@ It demonstrates my ability to design, document, and communicate effective cybers
 - Communicating technical response in business-friendly language  
 - Using industry standards (NIST, SANS, MITRE, ACSC, CISA)  
 - Building recruiter-friendly and detailed IRP documents
+
+
+### Author
+
+**Umme Farva**  
+Cybersecurity Analyst
